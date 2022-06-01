@@ -1,4 +1,4 @@
 # github-demo
 
 
-practive github
+practice github
